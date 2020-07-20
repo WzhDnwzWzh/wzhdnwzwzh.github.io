@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzhdnwzwzh.github.io</id>
     <title>WzhDnwzWzh 的博客</title>
-    <updated>2020-07-20T11:32:45.150Z</updated>
+    <updated>2020-07-20T11:34:28.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzhdnwzwzh.github.io"/>
     <link rel="self" href="https://wzhdnwzwzh.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://wzhdnwzwzh.github.io/images/avatar.png</logo>
     <icon>https://wzhdnwzwzh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WzhDnwzWzh 的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://wzhdnwzwzh.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://wzhdnwzwzh.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2020-07-20T11:33:56.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一篇测试文章。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wzhdnwzwzh.github.io/post/hello-gridea/</id>
